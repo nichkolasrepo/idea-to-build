@@ -1,4 +1,14 @@
+<p align="center">
+  <a href="https://www.nontechtechclub.com">
+    <img src="assets/hero-creation.webp" alt="The Creation of Adam, reimagined for Non Tech Tech Club" width="100%" />
+  </a>
+</p>
+
 # Build Funnel Skills
+
+> **Made by [Non Tech Tech Club](https://www.nontechtechclub.com)** — a free, open community where non-technical founders learn to build with no-code and AI tools.
+>
+> These skills accompany the playbook **[Plan before you build: from idea to a build plan](https://www.nontechtechclub.com/learn/plan-before-you-build)**, which walks through the same three passes in plain language. Start there for the why; use these skills to run each pass.
 
 A suite of three AI agent skills that walk a non-technical builder from a raw idea to a concrete build plan, in plain language, one honest step at a time. Each skill runs as a guided conversation and produces one living document that feeds the next.
 
@@ -50,3 +60,7 @@ Each folder is a self-contained skill in the Agent Skills format, so there are t
 - All three are designed for non-technical builders, with an adaptive register that tightens up if the builder is technical.
 - They are living documents: the builder reopens each output and grows it across sessions.
 - Built and refined through repeated real-world test runs.
+
+---
+
+Brought to you by [Non Tech Tech Club](https://www.nontechtechclub.com) · [Read the playbook](https://www.nontechtechclub.com/learn/plan-before-you-build)
