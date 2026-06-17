@@ -1,6 +1,7 @@
 ---
 name: ideation
-description: Help a non-technical builder turn a raw idea, or no idea at all, into a sharp, pressure-tested product concept, captured in a lean idea.md that feeds the architecture step. Use this whenever someone has an idea for an app or product and wants to develop, sharpen, or sanity-check it, asks whether an idea is any good or worth building, wants help deciding what to build, says they want to build something but do not know what, or asks to brainstorm, validate, or pressure-test a concept. This is the front of the build funnel: it comes before the architecture-design and implementation-plan skills and produces the brief they build on. It both shapes the idea and challenges it, and it tells the builder honestly when an idea does not hold up.
+description: >-
+  Help a non-technical builder turn a raw idea, or no idea at all, into a sharp, pressure-tested product concept, captured in a lean idea.md that feeds the architecture step. Use this whenever someone has an idea for an app or product and wants to develop, sharpen, or sanity-check it, asks whether an idea is any good or worth building, wants help deciding what to build, says they want to build something but do not know what, or asks to brainstorm, validate, or pressure-test a concept. This is the front of the build funnel: it comes before the architecture-design and implementation-plan skills and produces the brief they build on. It both shapes the idea and challenges it, and it tells the builder honestly when an idea does not hold up.
 ---
 
 # Ideation

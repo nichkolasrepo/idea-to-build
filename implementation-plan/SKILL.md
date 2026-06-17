@@ -1,6 +1,7 @@
 ---
 name: implementation-plan
-description: Turn a finished architecture.md into a concrete, step-by-step build plan a non-technical builder can execute with their AI build tool, captured in a living implementation.md. Use this whenever someone has settled their architecture and asks what to build first, how to actually build the thing, to turn the architecture into steps or a checklist, for a "build plan" or "implementation plan" or "build roadmap," or says they have their stack and need to start building, or wants to resume or update a build already underway. This is the continuation of the architecture-design skill: it picks up once the architecture exists and sequences the actual building, UI first, to a first working version. If there is no real architecture yet, send them to do that first.
+description: >-
+  Turn a finished architecture.md into a concrete, step-by-step build plan a non-technical builder can execute with their AI build tool, captured in a living implementation.md. Use this whenever someone has settled their architecture and asks what to build first, how to actually build the thing, to turn the architecture into steps or a checklist, for a "build plan" or "implementation plan" or "build roadmap," or says they have their stack and need to start building, or wants to resume or update a build already underway. This is the continuation of the architecture-design skill: it picks up once the architecture exists and sequences the actual building, UI first, to a first working version. If there is no real architecture yet, send them to do that first.
 ---
 
 # Implementation Plan
