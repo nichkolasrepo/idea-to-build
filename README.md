@@ -7,8 +7,13 @@
 # Build Funnel Skills
 
 <p align="center">
+  <a href="https://www.nontechtechclub.com"><b>nontechtechclub.com</b></a> &nbsp;·&nbsp; <a href="https://github.com/nichkolasrepo/idea-to-build">Build Funnel</a> &nbsp;·&nbsp; <a href="https://github.com/nichkolasrepo/launch-check">Launch Check</a>
+</p>
+
+<p align="center">
   <a href="https://www.nontechtechclub.com/learn/plan-before-you-build"><img src="https://img.shields.io/badge/PLAYBOOK-READ-F59E0B?style=for-the-badge&labelColor=24292E" alt="Read the playbook" /></a>
   <a href="https://www.nontechtechclub.com"><img src="https://img.shields.io/badge/WEBSITE-nontechtechclub.com-F59E0B?style=for-the-badge&labelColor=24292E" alt="Website" /></a>
+  <a href="https://t.me/nontechtechclub"><img src="https://img.shields.io/badge/TELEGRAM-JOIN-26A5E4?style=for-the-badge&labelColor=24292E&logo=telegram&logoColor=white" alt="Join our Telegram group" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-3FB950?style=for-the-badge&labelColor=24292E" alt="License: MIT" /></a>
   <a href="https://github.com/nichkolasrepo/launch-check"><img src="https://img.shields.io/badge/THEN-LAUNCH%20CHECK-F59E0B?style=for-the-badge&labelColor=24292E" alt="Next: Launch Check" /></a>
   <a href="https://www.nontechtechclub.com"><img src="https://img.shields.io/badge/BUILT%20BY-NON%20TECH%20TECH%20CLUB-F59E0B?style=for-the-badge&labelColor=24292E" alt="Built by Non Tech Tech Club" /></a>
