@@ -6,6 +6,14 @@
 
 # Build Funnel Skills
 
+<p align="center">
+  <a href="https://www.nontechtechclub.com/learn/plan-before-you-build"><img src="https://img.shields.io/badge/PLAYBOOK-READ-F59E0B?style=for-the-badge&labelColor=24292E" alt="Read the playbook" /></a>
+  <a href="https://www.nontechtechclub.com"><img src="https://img.shields.io/badge/WEBSITE-nontechtechclub.com-F59E0B?style=for-the-badge&labelColor=24292E" alt="Website" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-3FB950?style=for-the-badge&labelColor=24292E" alt="License: MIT" /></a>
+  <a href="https://github.com/nichkolasrepo/launch-check"><img src="https://img.shields.io/badge/THEN-LAUNCH%20CHECK-F59E0B?style=for-the-badge&labelColor=24292E" alt="Next: Launch Check" /></a>
+  <a href="https://www.nontechtechclub.com"><img src="https://img.shields.io/badge/BUILT%20BY-NON%20TECH%20TECH%20CLUB-F59E0B?style=for-the-badge&labelColor=24292E" alt="Built by Non Tech Tech Club" /></a>
+</p>
+
 > **Made by [Non Tech Tech Club](https://www.nontechtechclub.com)** — a free, open community where non-technical founders learn to build with no-code and AI tools.
 >
 > These skills accompany the playbook **[Plan before you build: from idea to a build plan](https://www.nontechtechclub.com/learn/plan-before-you-build)**, which walks through the same three passes in plain language. Start there for the why; use these skills to run each pass.
